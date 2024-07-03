@@ -1,4 +1,4 @@
 nocobase/nocobase:latest
 mysql:latest
 tomcat:9.0-jdk17
-MaxKB:latest
+1panel/maxkb
