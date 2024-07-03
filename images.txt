@@ -2,3 +2,4 @@ nocobase/nocobase:latest
 mysql:latest
 tomcat:9.0-jdk17
 1panel/maxkb
+1panel/ollama
