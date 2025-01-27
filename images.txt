@@ -1,2 +1,2 @@
 nocobase/nocobase:latest
-vxbase/ivxbase:latest
+ivxbase/ivxbase:latest
