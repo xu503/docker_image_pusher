@@ -1,2 +1,3 @@
+ivxbase/ivxbase:2.1.19
 nocobase/nocobase:latest
-ivxbase/ivxbase
+
