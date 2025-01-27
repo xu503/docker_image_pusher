@@ -1,3 +1,1 @@
-nocobase/nocobase:latest
-mysql:latest
 ivxbase/ivxbase
